@@ -1,0 +1,14 @@
+D:\FPTAPTECH\SEM2\C-\Lab\Ap\Ap\bin\Debug\Ap.exe.config
+D:\FPTAPTECH\SEM2\C-\Lab\Ap\Ap\bin\Debug\Ap.exe
+D:\FPTAPTECH\SEM2\C-\Lab\Ap\Ap\bin\Debug\Ap.pdb
+D:\FPTAPTECH\SEM2\C-\Lab\Ap\Ap\obj\Debug\Ap.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C-\Lab\Ap\Ap\obj\Debug\Ap.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C-\Lab\Ap\Ap\obj\Debug\Ap.exe
+D:\FPTAPTECH\SEM2\C-\Lab\Ap\Ap\obj\Debug\Ap.pdb
+C:\Users\Admin\Desktop\C--main\C--main\Lab\Ap\Ap\bin\Debug\Ap.exe.config
+C:\Users\Admin\Desktop\C--main\C--main\Lab\Ap\Ap\bin\Debug\Ap.exe
+C:\Users\Admin\Desktop\C--main\C--main\Lab\Ap\Ap\bin\Debug\Ap.pdb
+C:\Users\Admin\Desktop\C--main\C--main\Lab\Ap\Ap\obj\Debug\Ap.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C--main\C--main\Lab\Ap\Ap\obj\Debug\Ap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C--main\C--main\Lab\Ap\Ap\obj\Debug\Ap.exe
+C:\Users\Admin\Desktop\C--main\C--main\Lab\Ap\Ap\obj\Debug\Ap.pdb
